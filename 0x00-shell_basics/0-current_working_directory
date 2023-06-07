@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'Current workinh directory : $(realpath .)'
+echo "Current working directory: $(realpath .)"
+
